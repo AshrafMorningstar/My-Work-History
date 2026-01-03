@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
  Today I create a Github account so lets see how far I can go and check this website will shutdown
  
  Today I created this repositories this was very hard website to learn and create 
